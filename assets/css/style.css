@@ -272,13 +272,6 @@ footer {
     margin-bottom: 4px;
 }
 
-
-.progress {
-    position: relative;
-    height: 25px;
-    margin-bottom: 4px;
-}
-
 .progress-type {
     position: absolute;
     left: 0px;
